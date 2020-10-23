@@ -3,7 +3,7 @@ Custom made CSS framework by Matt Furlong
 This is a simple responsive grid-based framework. 
 Included is a flex collapsable navbar and a 1024px grid system.
 
-![alt text](../grid_framework.png)
+![Image of grid framework](https://github.com/[Pearly12]/[my-framework]/blob/[main]/grid_framework.png?raw=true)
 
 The following image is the framework in use, while replicating the odin project website.
 
